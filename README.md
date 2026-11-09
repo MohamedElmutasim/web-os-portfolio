@@ -8,6 +8,12 @@ This repository contains a standalone, client-side web desktop application built
 
 The interface simulates an operating system environment featuring draggable and resizable windows, an interactive CLI shell with command evaluation, customizable color palettes, a synthetic Web Audio sound generator, and responsive viewport reconfiguration.
 
+## Interface Preview
+
+| Desktop Environment | Mobile Viewport |
+| :---: | :---: |
+| ![Desktop Interface Preview](assets/desktop-preview.jpg) | ![Mobile Interface Preview](assets/mobile-preview.png) |
+
 ## Core Architecture
 
 The codebase follows an unbundled, modular architecture organized across four core files:
